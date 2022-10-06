@@ -29,11 +29,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: https://www.linkedin.com/in/pablotelis/
 
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BillRizer&theme=light&background=ffffff)](https://git.io/streak-stats)
-
-
 
 
 
