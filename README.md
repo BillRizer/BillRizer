@@ -11,9 +11,6 @@
     <a target="_blank" href="https://www.codewars.com/users/teliz/stats">
     <img src="https://img.shields.io/badge/codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Stack Exchange Badge"/>
   </a>
-  
-  
-  
 </div>
 <img src="https://komarev.com/ghpvc/?username=BillRizer&style=flat-square&color=blue" alt=""/>
 
@@ -22,9 +19,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
