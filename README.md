@@ -14,14 +14,28 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=BillRizer&style=flat-square&color=blue" alt=""/>
 
-<h1>
-  hey there
+<h2>
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</h2>
 
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil 🇧🇷
 
+<h3> My projects</h3>
+<table>
+  <tr>
+    <td>[Javascript] - My Simple <b>SOLID</b> project </td>
+    <td><a target="_blank" href="https://github.com/BillRizer/solid-typescript-sharebutton">Access</a></td>
+    </tr><tr>
+  <td>[Typescript] - "API Vehicle Parking" project using <b>Node.js</b> with <b>Nest.js</b></td>
+    <td><a target="_blank" href="https://github.com/BillRizer/api-parking">Access</a></td>
+  </tr>
+  <tr>
+  <td>[Typescript] - "React Photo Gallery" project using <b>ReactJs</b></td>
+    <td><a target="_blank" href="https://github.com/BillRizer/reactjs-photo-gallery">Access</a></td>
+  </tr>
+  </table>
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
 
 - :telescope: I’m working as a Software Engineer and Cybersecurity enthusiast.
 
