@@ -24,7 +24,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <h3> My projects</h3>
 <table>
   <tr>
-    <td>[Javascript] - My Simple <b>SOLID</b> project </td>
+    <td>[TypeScript] - My Simple <b>SOLID</b> project </td>
     <td><a target="_blank" href="https://github.com/BillRizer/solid-typescript-sharebutton">Access</a></td>
     </tr><tr>
   <td>[Typescript] - "API Vehicle Parking" project using <b>Node.js</b> with <b>Nest.js</b></td>
